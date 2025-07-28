@@ -182,7 +182,7 @@ const API_SITES = {
     },
 
     cat: {
-         api: 'https://caiji.99m.tv/inc/apijson_vod.php',
+         api: 'https://caiji.semaozy.net/inc/apijson_vod.php',
          name: 'Cat',
          adult: true
     },
