@@ -176,19 +176,19 @@ const API_SITES = {
      },
    ff: {
          api: 'https://ff.apiyutu.com/inc/feifei34/',
-         name: '飛飛資源',
+         name: 'Fly',
          adult: true
     },
 
     yutu-art: {
          api: 'https://apiyutu.com//api.php/provide/art/?ac=list',
-         name: '小說圖片資源',
+         name: 'Art',
          adult: true
     },
 
     cat: {
          api: 'https://caiji.99m.tv/inc/apijson_vod.php',
-         name: '色貓資源',
+         name: 'Cat',
          adult: true
     },
     
