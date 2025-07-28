@@ -169,6 +169,29 @@ const API_SITES = {
          name: '玉兔资源',
          adult: true
      },
+    yutu-detail: {
+    api: 'https://apiyutu.com/api.php/provide/vod/?ac=detail',
+     name: '玉兔资源-detail',
+         adult: true
+     },
+   ff: {
+         api: 'https://ff.apiyutu.com/inc/feifei34/',
+         name: '飛飛資源',
+         adult: true
+    },
+
+    yutu-art: {
+         api: 'https://apiyutu.com//api.php/provide/art/?ac=list',
+         name: '小說圖片資源',
+         adult: true
+    },
+
+    cat: {
+         api: 'https://caiji.99m.tv/inc/apijson_vod.php',
+         name: '色貓資源',
+         adult: true
+    },
+    
 
     // 下面是资源失效率高的API源，不建议使用
     // subo: {
