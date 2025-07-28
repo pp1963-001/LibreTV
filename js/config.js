@@ -138,7 +138,7 @@ const API_SITES = {
          adult: true
      },
      bwzy: {
-         api: 'https://api.bwzym3u8.com',
+         api: 'https://api.bwzyz.com/api.php/provide/vod/at/json/',
          name: '百万资源',
          adult: true
      },
@@ -163,24 +163,21 @@ const API_SITES = {
          adult: true,
          detail: 'https://hsck59.25img.com/'
      },
-     
-    yutudetail: {
-    api: 'https://apiyutu.com/api.php/provide/vod/?ac=detail',
-     name: '玉兔资源-detail',
+     yutudetail: {
+         api: 'https://apiyutu.com/api.php/provide/vod/?ac=detail',
+         name: '玉兔资源-detail',
          adult: true
      },
-   ff: {
+     ff: {
          api: 'https://ff.apiyutu.com/inc/feifei34/',
          name: 'Fly',
          adult: true
     },
-
     yutuart: {
          api: 'https://apiyutu.com//api.php/provide/art/?ac=list',
          name: 'Art',
          adult: true
     },
-
     cat: {
          api: 'https://caiji.semaozy.net/inc/apijson_vod.php',
          name: 'Cat',
