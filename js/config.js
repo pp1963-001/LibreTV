@@ -148,7 +148,7 @@ const API_SITES = {
          adult: true
      },
      r155: {
-         api: 'https://155api.com',
+         api: 'https://155api.com/api.php/provide/vod/at/json/?ac=list',
          name: '155资源',
          adult: true
      },
@@ -158,10 +158,10 @@ const API_SITES = {
          adult: true
      },
      huangcang: {
-         api: 'https://hsckzy.vip',
+         api: 'https://hsck59.25img.com/',
          name: '黄色仓库',
          adult: true,
-         detail: 'https://hsckzy.vip'
+         detail: 'https://hsck59.25img.com/'
      },
      yutu: {
     //     api: 'https://yutuzy10.com',
