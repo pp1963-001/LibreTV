@@ -128,12 +128,12 @@ const API_SITES = {
     // 而作为观众无辜吗？毫无疑问，他们促成了黄色产业链的再生产。
     // 我们提供此警告，是希望您能认清这些内容的本质——它们是压迫和奴役的工具，而非娱乐。
      ckzy: {
-         api: 'https://www.ckzy1.com',
+         api: 'https://ckzy.me/api.php/provide/vod',
          name: 'CK资源',
          adult: true
      },
      jkun: {
-         api: 'https://jkunzyapi.com',
+         api: 'https://ikunzyapi.com/api.php/provide/vod',
          name: 'jkun资源',
          adult: true
      },
@@ -143,7 +143,7 @@ const API_SITES = {
          adult: true
      },
      souav: {
-         api: 'https://api.souavzy.vip',
+         api: 'https://api.souavzy.vip/api.php/provide/vod',
          name: 'souav资源',
          adult: true
      },
@@ -152,28 +152,12 @@ const API_SITES = {
          name: '155资源',
          adult: true
      },
-     lsb: {
-         api: 'https://apilsbzy1.com',
-         name: 'lsb资源',
-         adult: true
-     },
-     huangcang: {
-         api: 'https://hsck59.25img.com/',
-         name: '黄色仓库',
-         adult: true,
-         detail: 'https://hsck59.25img.com/'
-     },
      yutudetail: {
          api: 'https://apiyutu.com/api.php/provide/vod',
          name: '玉兔资源-detail',
          adult: true
      },
-     ff: {
-         api: 'https://ff.apiyutu.com/inc/feifei34/',
-         name: 'Fly',
-         adult: true
-    },
-    yutuart: {
+     yutuart: {
          api: 'https://apiyutu.com//api.php/provide/art',
          name: 'Art',
          adult: true
