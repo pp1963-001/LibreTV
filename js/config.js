@@ -138,7 +138,7 @@ const API_SITES = {
          adult: true
      },
      bwzy: {
-         api: 'https://api.bwzyz.com/api.php/provide/vod/at/json/',
+         api: 'https://api.bwzyz.com/api.php/provide/vod',
          name: '百万资源',
          adult: true
      },
@@ -148,7 +148,7 @@ const API_SITES = {
          adult: true
      },
      r155: {
-         api: 'https://155api.com/api.php/provide/vod/at/json/?ac=list',
+         api: 'https://155api.com/api.php/provide/vod',
          name: '155资源',
          adult: true
      },
@@ -164,7 +164,7 @@ const API_SITES = {
          detail: 'https://hsck59.25img.com/'
      },
      yutudetail: {
-         api: 'https://apiyutu.com/api.php/provide/vod/?ac=detail',
+         api: 'https://apiyutu.com/api.php/provide/vod',
          name: '玉兔资源-detail',
          adult: true
      },
@@ -174,7 +174,7 @@ const API_SITES = {
          adult: true
     },
     yutuart: {
-         api: 'https://apiyutu.com//api.php/provide/art/?ac=list',
+         api: 'https://apiyutu.com//api.php/provide/art',
          name: 'Art',
          adult: true
     },
