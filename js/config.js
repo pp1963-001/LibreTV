@@ -163,13 +163,8 @@ const API_SITES = {
          adult: true,
          detail: 'https://hsck59.25img.com/'
      },
-     yutu: {
-    //     api: 'https://yutuzy10.com',
-         api: 'https://apiyutu.com/api.php/providedao/vod/?ac=list',
-         name: '玉兔资源',
-         adult: true
-     },
-    yutu-detail: {
+     
+    yutudetail: {
     api: 'https://apiyutu.com/api.php/provide/vod/?ac=detail',
      name: '玉兔资源-detail',
          adult: true
@@ -180,7 +175,7 @@ const API_SITES = {
          adult: true
     },
 
-    yutu-art: {
+    yutuart: {
          api: 'https://apiyutu.com//api.php/provide/art/?ac=list',
          name: 'Art',
          adult: true
