@@ -122,6 +122,14 @@ const API_SITES = {
         api: 'https://cj.lziapi.com/api.php/provide/vod/',
         name: '量子资源站'
     },
+    mtzy: {
+        api: 'https://caiji.maotaizy.cc/api.php/provide/vod/',
+        name: 'Maotai资源站'
+    },
+    guangsu : {
+        api: 'https://api.guangsuapi.com/api.php/provide/vod/',
+        name: '光速影视资源站'
+    },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
